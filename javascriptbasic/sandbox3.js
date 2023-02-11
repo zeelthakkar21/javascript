@@ -10,7 +10,7 @@ const likes =30;
 
 //template string way 
 
-let result=`The blog called ${title} by ${author} has ${likes} likes`;
+/*let result=`The blog called ${title} by ${author} has ${likes} likes`;
 console.log(result);
 
 //creating html template
@@ -19,5 +19,5 @@ let html =`
 <p>By ${author} </p>
 <span>This blog has ${likes} likes </span>
 `;
-console.log(html);
+console.log(html);*/
 
