@@ -11,6 +11,5 @@
     console.log(html);
     }*/
 
-    //while loops
    
     
