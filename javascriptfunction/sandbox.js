@@ -1,8 +1,8 @@
 //function expression
-const speak = function(){
+/*const speak = function(){
     console.log('good day');
  };
- speak();
+ speak();*/
 
 
 //function declaration
@@ -15,3 +15,14 @@ function greet (){
 //greet();  //function call karyu
 //greet();
 //greet();
+
+//argyuments & parameters
+
+//const speak = function(name, time)
+const speak = function(name='luigi', time='night')
+{
+    console.log(`good ${time} ${name}`);
+};
+speak();
+speak('shaun');
+//speak ('mario','morning');
