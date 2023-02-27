@@ -2,14 +2,14 @@
 //const para=document.querySelector('div.error');
 //console.log(para);
 
-const paras=document.querySelectorAll('p');
+//const paras=document.querySelectorAll('p');
 //console.log(paras);
 
 /*paras.forEach(para=>{
     console.log(para);
 });*/
 
-const errors=document.querySelectorAll('.error');
+/*const errors=document.querySelectorAll('.error');
 console.log(errors);
 
-console.log(paras[0]);
+console.log(paras[0]);*/
