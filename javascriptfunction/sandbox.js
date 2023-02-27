@@ -6,9 +6,9 @@
 
 
 //function declaration
-function greet (){
-    console.log('hello there');
-}
+//function greet (){
+    //console.log('hello there');
+//}
 
 
 
